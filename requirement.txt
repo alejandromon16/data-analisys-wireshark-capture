@@ -1,0 +1,4 @@
+pyshark
+pandas
+mac-vendor-lookup
+tqdm
